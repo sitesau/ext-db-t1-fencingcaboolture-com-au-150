@@ -1,0 +1,22 @@
+{
+  "wheel_id": 535,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-fencingcaboolture-com-au-150",
+  "project": "fencing-caboolture-a71fd23347aa68adab36f7344841d8418706310d",
+  "parent_t1_ref": "ext-db-t1-fencingcaboolture-com-au",
+  "node_role": "buffer",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing caboolture",
+  "intended_url": "https://sites-e470-2.web.app/fencing-caboolture-a71fd23347aa68adab36f7344841d8418706310d/",
+  "tier": "T2",
+  "writeback_nonce": "13c26e9b9a8bc456",
+  "links": [
+    {
+      "target_url": "https://fencingcaboolture-com-au-guide.sitesaugpt.chatgpt.site/",
+      "anchor": "a guide to fencing caboolture",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
